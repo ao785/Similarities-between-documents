@@ -3,7 +3,7 @@
 1. This project is built under Python (version 3.8.2)
 2. You have to put all your files in the same folder and make sure to put the folder path in your console.
 
-# Use the command just below to run your programms
+Use the command just below to run your programms
 
 #######################################################################
 ############################ Task 1 ###################################
