@@ -3,6 +3,12 @@
 1. This project is built under Python (version 3.8.2)
 2. You have to put all your files in the same folder and make sure to put the folder path in your console.
 
+The goal of this project is to show the similarity between documents using differents methods. You can find a small description of the code just below.
+
+The 1st step (task1.py) preprocesses the documents. (Gathering, tokenization, stopword removal, stemming (Poter algorithm) and index creation). The 2nd step (task2.py) creates the TDIM (Term-Document incident Matrix) and the inverted index matrix. The 3rd step calculates the similarity between 2 documents using cosinus similarity.
+
+You can find in the project some examples of inputs but you can also use your own documents.
+
 Use the command just below to run your programms
 
 #######################################################################
